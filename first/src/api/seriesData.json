@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Dr Romatic",
+    "id": "Dr-Romatic",
+    "img_url": "image.png",
+    "rating": 4.5,
+    "description": "A story of a surgeon who is a rebel and has his own way of treating patients.",
+    "caste": ["Karan Singh Grover", "Kriti Kharbanda", "Siddharth Malhotra"],
+    "genre": ["Medical Drama"],
+    "watch_url": "https://www.viki.com/videos/1117119v"
+  },
+  {
+    "name": "Rescue the earth",
+    "id": "Rescue-the-earth",
+    "img_url": "./images/file.jpg",
+    "rating": 4.8,
+    "description": "A documentary series that explores the impact of climate change and what we can do to save our planet.",
+    "caste": ["David Attenborough", "Greta Thunberg"],
+    "genre": ["Documentary"],
+    "watch_url": "https://www.viki.com/videos/1262121v"
+  }
+]
